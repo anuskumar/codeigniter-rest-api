@@ -1,6 +1,6 @@
 Database name: codeigniter_rest_api
 
-Table code:
+
 
 CREATE TABLE `tbl_students` (
  `id` int(11) NOT NULL AUTO_INCREMENT,
